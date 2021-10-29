@@ -81,5 +81,49 @@ Tried to change flourescence to internal signal bu very little signal there. But
 
 Change sample to 10054-
 
+#serotonin-21-2
+Samples as described in serotonin 21-1
+Imaging performed on Leica SP8 system in room D4-151
+Project folder: onedrive-NTNU/lilledahl/projects/serotonin
+Experiment plan written in overleaf - tex + pdf stored in project folder.
+
+##Notes
+Checked SHG signal on cartilage test sample - good signal. Also good fluorescence in internal PMT.
+
+Sample 10653-23t
+
+Base filename serotonin-21-2
+001-DAPI - image of epithelial cells with phalloidin and dapi. 760 nm excitation
+001 Image of DAPI. Good signal laser: 30/25, gain pmt 750, bw 395-450
+002 Same location - multichannel
+004 New location
+005 Zoom = 2 Some SHG extending into the lamina propria
+006 zoom 2, outside the mucosa muscularis, 
+007 Zoom 4 (according to system z stack is 15 mu - not much resolution to hope for - try 63 x)
+009 Different location
+010 Differen location
+011 Zoom just abov mucosa muscularis
+
+10654-27t
+012 Seems to be some change in the submucosa? Much broader and less dens in some regions, 
+013 same, different location
+014 Transition between 'normal/thin' region and thicker
+On preivous 3 images forgot to put on 50 Hz
+015 'Normal region'
+016 Transition region again at 50 hz
+017 Thick region again at 50 hz
+018 'kjertel?'
+021 The thick part transition over to a region of (019/020 out of focus and used 400 hz - deleted)
+023 Zoom in on villi - see collagen basal layer
+024 Differen location - normal
+
+10661
+025 
+026
+028 Could it be interesting to looko at hwo much collagen is in the top of the villi (027 - at 400hz -deleted)
+029 Testing out 20248x2048 an - HYD shutdown
+
+
+
 
 
