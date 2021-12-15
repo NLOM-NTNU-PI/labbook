@@ -1,0 +1,35 @@
+# ecm-morphogensis-21-1
+Testing microscope settings.
+
+Brightfield DIC. Adjust kohler, focus, change to DIC, adjust DIC setting
+
+ECM-morphogensis.21.1
+
+BF-1 
+Transmission image max zoom out (25x)
+BF-2
+Transmission image. zoom 0.9 Can just see border
+BF-3
+DIC image at zoom 1.5. Min zoom seems to be 1.28 controlled by software. Dark edge on image. 
+BF-4
+Zoom 2.5. Reduced border. Laser alignment?
+BF-5
+Adjusted DIC prism bias (lower left in software). DIC effect much clearer.
+
+Adjustments in Fluo-Turret: DIC-pol (polarisation effects?) also an option
+MP-1
+Multiphoton of cell. Good autofluorescence. Probably as good as DIC for imaging
+MP-2
+Zoom out full, probably quite easy to segment fairly well
+
+Switch to stage top incubator
+BF-6 
+Bright field image with stage top incubator
+BF-7
+DIC image
+MP-3
+MP image - (remember to switch on MP in laser control)
+
+Switched to 63x water objective. Seems like there was no need to add water.
+
+Weak fluorescence signal -remember pinhole for internal detectors.
