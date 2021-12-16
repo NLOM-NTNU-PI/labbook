@@ -33,3 +33,23 @@ MP image - (remember to switch on MP in laser control)
 Switched to 63x water objective. Seems like there was no need to add water.
 
 Weak fluorescence signal -remember pinhole for internal detectors.
+
+# ecm-formation-2d-mc3t3-1
+
+Inital imaging of MC3T3 samples
+
+* Start MP system according to start up procedure
+* Start the software - no water pump, activate AFC, initalize stage
+* Start water controller before software. Place cap on objective (from underneath stage)
+** After water has emerged on top, set to interval timer
+* Place incubation chamber. Clean chamber surfaces with ethanol. Clean surfaces in contact with well-plate
+* Once system has thermalized, start C02 flow
+
+After system has stablized.
+* Put on gloves, steralize
+* Take dish with well-plates to flow-hood.
+* Move one well-plate to sterile dish with cloth in bottom
+* Move new dish to microscope.
+* Place well plate in incubator
+
+Start with well-plate M1
