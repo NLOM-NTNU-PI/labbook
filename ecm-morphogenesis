@@ -53,3 +53,40 @@ After system has stablized.
 * Place well plate in incubator
 
 Start with well-plate M1
+
+Incubator temperature at 37 degrees when moving temperature sensor to middle of chamber
+
+Cells look ok (triangular) and dense i BF. DIC not much improvement (forgot to adjust kohler though...)
+
+Well 7 field A2
+m1-001:
+BF image
+
+m1-001
+BF-DIC
+
+Had to restart software as MP laser was not enabled.
+
+ecm-formation-2d-mc3t3-1b-
+001:BF
+002:DIC
+003:DIC-POL (no much different)
+004: MP 890 NDD 500-550 (difficult to see any cells.
+005: MP 800 internal hyd 420-500
+006: BF cells look ok
+007: SHG!
+008: 1024x1024
+009: z-stack 4 mu intervals
+010: z-stack 10 mu intervals
+011:0.75 zoom
+wsitch to field B2
+Swtich to C2
+012
+013: zoom
+014: 40 min a 3 min time series - black, water drop missing?
+015: Testet etter nytt van
+Switched to 63x w 1.2
+016: signal much weaker at 63x
+017:
+018 z-stack
+
