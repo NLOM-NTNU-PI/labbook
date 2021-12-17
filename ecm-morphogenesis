@@ -58,7 +58,9 @@ Incubator temperature at 37 degrees when moving temperature sensor to middle of 
 
 Cells look ok (triangular) and dense i BF. DIC not much improvement (forgot to adjust kohler though...)
 
-Well 7 field A2
+~~Well 7 field A2~~
+(addition) I believe the above is incorrect. Confused due to inversion of grid in image. The well number is 2 (II in experiment plan) and field is A1 (there were some engraving errors)
+
 m1-001:
 BF image
 
@@ -67,7 +69,10 @@ BF-DIC
 
 Had to restart software as MP laser was not enabled.
 
+(addition) Project saved and new project started named ecm-formation-2d-mc3t3-1b
+
 ecm-formation-2d-mc3t3-1b-
+
 001:BF
 002:DIC
 003:DIC-POL (no much different)
