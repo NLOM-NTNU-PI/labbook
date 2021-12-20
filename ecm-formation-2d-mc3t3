@@ -163,7 +163,6 @@ Skipped C1 due to saturation
 * 026 C3
 
 Switched to well-plate with different culturing media. nP1 and nP2 were on the right side when the Ibidi logo was topp right, upside down. Writing in occular was then right side up with A to the left and 1 on top
-
 Start with bottom rigth, no -P, +AA
 
 A1 saturated
@@ -183,7 +182,20 @@ Switched to reference well to left of previous when seen from condensor.
 * 033 A1
 * 034 B1
 
+Switched to well-plate M1
 
+Well II
+* 035 A1 Repeat from previous experiment. Placed approximately in middle where signal was strongest. z-stack
+* 036 A1 Repeat without z-stack
+* 037 B1 middle
+* 038 B1 deeper (further from glass). Notice increased ordering.
+* 039 C1. Middle. The FSHG is very strong compared to last time. Maybe missed due to Kohler and some optimizing. Should investigate if this is a true signal change.
+* 040 B2 z-stack 1 mu intervals
 
+Change to 63x objective.
+
+* 041 B2 z-stack 1mu 
+* 042 B3 Attempt at nice 63x image
+* 043 D3 t-scan 1 min intervall 30 min
 
 
