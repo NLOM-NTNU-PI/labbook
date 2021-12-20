@@ -110,5 +110,80 @@ Switched to 63x w 1.2
 (Remember Kohler before DIC)
 
 ## Info
-* Date...
-* Sample...
+* 20.12.2021
+* Cell cultures as described in ecm-formation-2d-mc3t3
+* Leica SP8 system in D4-151, NTNU
+
+## Experiment
+First experiment is for testing effect of different seeding densities
+
+Well-plate C1, well S2 (50e5 cells), 
+* 001 field A1 (lower left when seen from above well-plate), z-stack, 5 mu interval. Only SGG
+* 002 A2
+* 003 A3
+* 004 deleted. wrong settings
+* 005 B3. Turned on TPEF (RLD1)
+* 006 B3 again, with FSHG (TLD2)
+* 007 B2 
+
+Skipped B1 due to particulate giving detector saturation
+
+* 008 C1
+* 009 C2
+* 010 deleted due to wrong settings
+* 011 C3
+
+Switch to well S1 (10e5)
+
+* 012 A1
+* 013 A2
+* 014 A3
+* 015 B3
+* 016 B2
+* 017 B1
+* 018 C1
+
+C2 and C3 skipped due to large particulate saturating detector and loss of waterdrop
+
+Switched to well s3 (normal seeding density)
+
+* 019 deleted due to detector saturation
+* 020 A1
+* 021 A2
+* 022 A3
+
+Skipped B1 due to saturation of detector
+
+* 024 B2
+* 025 B3
+
+Skipped C1 due to saturation
+
+* 026 C2
+* 026 C3
+
+Switched to well-plate with different culturing media. nP1 and nP2 were on the right side when the Ibidi logo was topp right, upside down. Writing in occular was then right side up with A to the left and 1 on top
+
+Start with bottom rigth, no -P, +AA
+
+A1 saturated
+
+* 027 B1
+* 028 C1
+* 029 D1
+* 030 E1
+
+Switched to well with -P, -AA
+
+* 031 A1
+* 031 B1
+
+Switched to reference well to left of previous when seen from condensor.
+
+* 033 A1
+* 034 B1
+
+
+
+
+
