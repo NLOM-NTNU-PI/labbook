@@ -98,10 +98,12 @@ Switched to 63x w 1.2
 # ecm-formation-2d-mc3t3-2
 
 ## Plan
-* The axial resolution of the 25x is very low. Need to check if we can get good signals with the 63x objectives.
-* Image the wells with different seeding denities
-* Image the wells with different culturing media
-* Reimage the images from yesterday the previous measurement
+* Start with well plate C1
+* Image the wells with different seeding denities (S1-S3). 9 fields at different locations. Use 25x.
+* Image the wells with different culturing media (nP1, nP2). 9 fields at different locations. Use 25x.
+* Change well-plate to M1
+* Reimage the images from yesterday the previous measurement (Well-plate M1, well 2, field A1)
+* The axial resolution of the 25x is very low. Check if we can get good signal with the 63x objectives. 
 * Take a series of multiple frames, different wells, well-plates for serial imaging and testing matrix screener *must read*. Also to test the amount of time it takes.
 * Take a new high t-resolution series. Put in water-pump only for this experiment.
 
