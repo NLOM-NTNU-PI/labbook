@@ -198,4 +198,28 @@ Change to 63x objective.
 * 042 B3 Attempt at nice 63x image
 * 043 D3 t-scan 1 min intervall 30 min
 
+# ecm-formation-2d-mc3t3-3
 
+## Aim
+The aim of this experiment is to test Leica matrix screener scripting software for automated imaging of many fields and wells.
+
+## Experiment
+Well-plate M2 was used.
+
+Placed the Ibidi logo upper right (seen from above), inverted. Inscriptions are then upright in occular
+
+Started imaging on well upper left (well PT2 in original plan). 
+
+Remember AFC cannot be used with water pump.
+
+Remember waterdrop if low signal
+
+Rotating scanfield gives significanly lower signal.
+
+Maybe use a different insert to avoid edges interfering with water drop (larger opening)
+
+OFfset in matrix screener is set to 100 which is wrong - should be around 60
+
+Slide must be as aligned to stage as possible
+
+Did not get to the point where all settings were completed in matrix screener. Need to redo experiment. Perhaps only using well
