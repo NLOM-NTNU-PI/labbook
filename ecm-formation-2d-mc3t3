@@ -223,3 +223,7 @@ OFfset in matrix screener is set to 100 which is wrong - should be around 60
 Slide must be as aligned to stage as possible
 
 Did not get to the point where all settings were completed in matrix screener. Need to redo experiment. Perhaps only using well
+
+During shut down, noticed that the gas had not been turned on. Might have affected the cells.
+
+Also try without the insert in the stage to avoid drop problems
