@@ -163,7 +163,7 @@ Skipped C1 due to saturation
 * 026 C3
 
 Switched to well-plate with different culturing media. nP1 and nP2 were on the right side when the Ibidi logo was topp right, upside down. Writing in occular was then right side up with A to the left and 1 on top
-Start with bottom rigth, no -P, +AA
+Start with bottom rigth, ~~no -P, +AA~~ (addition) -P & -AA
 
 A1 saturated
 
@@ -172,7 +172,7 @@ A1 saturated
 * 029 D1
 * 030 E1
 
-Switched to well with -P, -AA
+Switched to well with ~~-P, -AA~~ (addition) -P
 
 * 031 A1
 * 031 B1
