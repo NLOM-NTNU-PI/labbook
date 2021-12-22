@@ -294,6 +294,74 @@ Move to field F5
 * 010 Quite close to bottom
 * 011 Further up
 
+Change to well-plate C(D), with different seeding densities. Well V (10e5)
 
+* 012 Field A1
+* 013 Field B2
+* 014 Slightly deeper
+
+Change to well VI (50e5)
+
+* 015 Stoppped - was at 400 hz
+* 016 Field A1
+* 017 Field B2 - stopped 400 Hz
+* 018 Field B2
+
+Switched to well-plate C(M) with different media
+
+First well V with -P
+
+* 019 Field A1
+
+Saturation of detector move to A2
+
+* 020 A2 Saturated
+
+Decrese power on SHG sequence from 48 to 38 (gain)
+
+* 021 Saturation on end of SHG scan, but ok.
+
+Change to well I (-P & -AA). Field A1
+
+* 022 Collagen network is quite different. Close to surface. Perhaps aslo fewer spindle shaped (elongated) cells
+* 023 Deeper
+* 024 Field B2. Layer with strongest SHG.
+
+Switched to well-plate C (which has been in the incubator for the duration of experiment). Well V. 
+
+* 025 Field A1.
+* 026 Field B2. Close to surface (good shg but weak calcein)
+
+**Remembered I forgot to set GDD**
+
+Switch to 63x water
+
+* 027 stopped
+* 028 z-stack with all channels. Difficult to get nice images with 63x objective. Might be the staining though. The Hoechst stains look very nice.
+
+* 029 stopped
+* 030 z-stack with heochst and shg
+
+Switch to oil objective
+
+* 031 Hoechst
+* 032 stopped
+* 033 SHG
+* 034 SHG bidirectional
+* 035 SHG and Hoechst
+* 036 zoom 1
+
+Some images with oil objective
+
+## ecm-formation-2d-mc3t3-5
+
+9.12.21 Seeded
+10.12.21 Added AA ++ PP +  med 
+13.12.21 Exchanged medium
+16.12.21 Exchanged medium 
+20.12.21 Exchanged medium
+22.12.21 Cells fixed with PFA stored i refrigirator in B4-126
+
+6 well-plates: M1, M2, M3, C, C(D), C(M). See experimental notes and plan for content of wells.
 
 
