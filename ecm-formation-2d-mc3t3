@@ -7,26 +7,35 @@ ECM-morphogensis.21.1
 
 BF-1 
 Transmission image max zoom out (25x)
+
 BF-2
 Transmission image. zoom 0.9 Can just see border
+
 BF-3
 DIC image at zoom 1.5. Min zoom seems to be 1.28 controlled by software. Dark edge on image. 
+
 BF-4
 Zoom 2.5. Reduced border. Laser alignment?
+
 BF-5
 Adjusted DIC prism bias (lower left in software). DIC effect much clearer.
 
 Adjustments in Fluo-Turret: DIC-pol (polarisation effects?) also an option
+
 MP-1
 Multiphoton of cell. Good autofluorescence. Probably as good as DIC for imaging
+
 MP-2
 Zoom out full, probably quite easy to segment fairly well
 
 Switch to stage top incubator
+
 BF-6 
 Bright field image with stage top incubator
+
 BF-7
 DIC image
+
 MP-3
 MP image - (remember to switch on MP in laser control)
 
@@ -41,7 +50,7 @@ Inital imaging of MC3T3 samples
 * Start MP system according to start up procedure
 * Start the software - no water pump, activate AFC, initalize stage
 * Start water controller before software. Place cap on objective (from underneath stage)
-** After water has emerged on top, set to interval timer
+  * After water has emerged on top, set to interval timer
 * Place incubation chamber. Clean chamber surfaces with ethanol. Clean surfaces in contact with well-plate
 * Once system has thermalized, start C02 flow
 
@@ -74,25 +83,45 @@ Had to restart software as MP laser was not enabled.
 ecm-formation-2d-mc3t3-1b-
 
 001:BF
+
 002:DIC
+
 003:DIC-POL (no much different)
+
 004: MP 890 NDD 500-550 (difficult to see any cells.
+
 005: MP 800 internal hyd 420-500
+
 006: BF cells look ok
+
 007: SHG!
+
 008: 1024x1024
+
 009: z-stack 4 mu intervals
+
 010: z-stack 10 mu intervals
+
 011:0.75 zoom
+
 wsitch to field B2
+
 Swtich to C2
+
 012
+
 013: zoom
+
 014: 40 min a 3 min time series - black, water drop missing?
+
 015: Testet etter nytt van
+
 Switched to 63x w 1.2
+
 016: signal much weaker at 63x
+
 017:
+
 018 z-stack
 
 # ecm-formation-2d-mc3t3-2
@@ -242,11 +271,11 @@ NO DATA RECORDED
 ## Plan
 
 * Image fields with
-** long term exposure (M1/II/A1, D3)
-** nearby unimaged field (M1//II/F5)
-** field that has not been taken out of incubator (T)
-** fields with different seeding densities (C)
-** Fields with different culturing media. (C)
+  * long term exposure (M1/II/A1, D3)
+  * nearby unimaged field (M1//II/F5)
+  * field that has not been taken out of incubator (T)
+  * fields with different seeding densities (C)
+  * Fields with different culturing media. (C)
 * Fix cells after incubation.
 * (If time additional imaging of previously imaged and unimaged areas)
 
@@ -355,12 +384,12 @@ Some images with oil objective
 
 ## ecm-formation-2d-mc3t3-5
 
-9.12.21 Seeded
-10.12.21 Added AA ++ PP +  med 
-13.12.21 Exchanged medium
-16.12.21 Exchanged medium 
-20.12.21 Exchanged medium
-22.12.21 Cells fixed with PFA stored i refrigirator in B4-126
+* 9.12.21 Seeded
+* 10.12.21 Added AA ++ PP +  med 
+* 13.12.21 Exchanged medium
+* 16.12.21 Exchanged medium 
+* 20.12.21 Exchanged medium
+* 22.12.21 Cells fixed with PFA stored i refrigirator in B4-126
 
 6 well-plates: M1, M2, M3, C, C(D), C(M). See experimental notes and plan for content of wells.
 
