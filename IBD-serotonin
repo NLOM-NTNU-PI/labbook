@@ -123,6 +123,42 @@ On preivous 3 images forgot to put on 50 Hz
 028 Could it be interesting to looko at hwo much collagen is in the top of the villi (027 - at 400hz -deleted)
 029 Testing out 20248x2048 an - HYD shutdown
 
+# ibd-serotonin-21-3
+
+list of images in C:\Users\lilledah\OneDrive - NTNU\Projects\2021 IBD-serotonin\serotonin-21-3\ibd-serotonin-21-3-image-series.txt
+
+Sample 10653-26t on stage. Two samples on slide. Used leftmost as seen from above stage. Stage reference as shown in figure.
+
+TPEF channel saturates. Maybe different scan with different power.
+Inital settints power/gain = 50/30. Just a few pixels in saturation
+Forward signal is MUCH stronger than backward signal.
+Remember to set scan speed = 100, PMT gain = 800.
+
+Rotate 90 degrees to make image correspond to stage view.
+
+Collected at x locations using 3 sequential scans.
+
+DAPI signal is ok for orienting location for next scan, use 200 but remember to switch back to 100
+Remeber to refocus imaging layer when shifting position. Fluorescence channel saturated. Maybe not a problem as this channel probably wont be used???
+
+Remember to check if location is stored in metadata
+Maybe if detector shut down try do move to nearby locations.
+Saturation points that cause shutdown are often seen as small grainy enclusures.
+
+When all settings are applied. Imaging a single sample proably takes less than 30 min.
+
+1024x1024 gives significantly sharper image. The maximum intensity level in the counted channels is reduced.
+2048 is even better but starts to takes some time.
+
+Test excitation wavelength relative to filter to reduce autofluorescence
+
+Forgot to open pinhole for DAPI
+
+Seems like the only quick gdd settings made are for 5x dry (which is max) and zero. The other settings have no effect. 
+
+The 63x signal did not seem to give much in terms additional structure. The z-resolution is better but the structure is not much different.
+
+
 
 
 
