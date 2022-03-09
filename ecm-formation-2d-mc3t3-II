@@ -21,3 +21,22 @@ Tried 4x4 frame with 8 stacks 100 Hz and 1024x1024 - takes too long, about 10 mi
 Slide M1, well (1,2) (black mark lower left), Area A1
 Scan 4 frames, 200 hz, one stack, continous intervals
 Temperature is 32 degrees.
+
+# ecm-formation-2d-mc3t3-II-2
+
+Startup. Remember to set GDD. Much stronger signal.
+Reference image taken from ecm-formation-2d-mc3t3, slide M1, well (1,1).
+Placed slide M1 from current experiment, well (1,2) (black mark lower left, ibid upper right)
+Difficult to get water started. Try high voltage and frequency first to get it going.
+
+
+Collagen clearly present (remember gdd was not set yesterday)
+
+Starte scan with power (50,30 - same as reference). Area A1-B2. Every 30 min.
+
+Water dried out at frame 14.
+
+Changed water interval to 9s/1min (instead of 9s/4min)
+
+Moved to area C1. Time series on single area
+Also this area dried out after about an hour.
