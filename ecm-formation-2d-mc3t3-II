@@ -40,3 +40,25 @@ Changed water interval to 9s/1min (instead of 9s/4min)
 
 Moved to area C1. Time series on single area
 Also this area dried out after about an hour.
+
+# ecm-formation-2d-mc3t3-II-3
+
+* experiment: ecm-formation-2d-mc3t3-II
+* date: 10032022
+* instrument: leica sp8 mp
+
+## Start up
+Started system according to procedure
+Water pump set to 17s every 1 min.
+
+## Measurements
+Orientation of slides, IBIDI marke upper right.
+Reference sample ecm-formation-2d-mc3t3, well (1,2)
+Reuse settings from ecm-formation-2d-mc3t3-II-2
+Slide M1 mounted, well (1,3). Temperature at 30 deg.
+
+Series 003 - water immersion dried out after about 2h 20 min.
+Added new water immersion.
+Changed water pump to 30 s every 1 min.
+Temperature at 35 deg, reduced airflow to about 50 %
+Moved to area B1.
