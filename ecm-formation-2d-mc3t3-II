@@ -62,3 +62,23 @@ Added new water immersion.
 Changed water pump to 30 s every 1 min.
 Temperature at 35 deg, reduced airflow to about 50 %
 Moved to area B1.
+
+# ecm-formation-2d-mc3t3-II-4
+
+* experiment: ecm-formation-2d-mc3t3-II
+* date: 11032022
+* instrument: leica sp8 mp
+
+## Start up
+Started system according to procedure
+Water pump set to 12 s/2 min at 85 Vpp (started at every 4 min but saw little change in container)
+
+## Measurements
+Orientation of slides, IBIDI marke upper right.
+Reference sample ecm-formation-2d-mc3t3, well (2,2)
+Stored as Image001
+
+Keep same settings
+Slide M1 mounted, well (2,3).  Area A1.
+Image002 - reference image
+Series003 - Time series (after about 30 min changed from water pump every 4 min to water pump every 2 min - saw no change in water container).
