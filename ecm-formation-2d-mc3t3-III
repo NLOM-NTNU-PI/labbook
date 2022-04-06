@@ -5,5 +5,19 @@ Series00*
 3 - z-stack through sample
 4 - Including SHG. Power 30/35 almost saturates cellular fluorescence
 5 - sequentila scan with two different powers.
+6 - time series. some indication that the cells are not too happy
+7 - saturated.
+8,9 - deleted
+10 - Same location, single image. One area is dark.
+11 - samme settings but area to the side
+start single scan (not sequential) every 2 minutes.
+12 - time series
+Switched to 63x 1.4 oil
+13 -single
+14 - sequential, TPEF on internal
+15 deleted
+16 sequential, both NDD
+There is a diffuse SHG signal. Could this perhaps be thin collagen that does not appear as clear fibrils
+17 - z- stack.
 
 To try 40x
