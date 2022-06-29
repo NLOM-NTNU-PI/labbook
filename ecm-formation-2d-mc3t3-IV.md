@@ -1,4 +1,4 @@
-#ecm-formation-2d-mc3t3-IV-1
+# ecm-formation-2d-mc3t3-IV-1
 
 date:280622
 
@@ -34,3 +34,27 @@ T-stage was set to 29 deg. Changed to 37 deg.
 * Image013 at D5, 50/50. Was at 400 Hz
 * Image 014 - same at 100 Hz.
 * G5. Image015. The slide seems very slanted which is probably what gives it the banded effect. 
+
+# ecm-formation-2d-mc3t3-IV-2
+
+Image cells that have been stained with cell viability kit.
+Cells have been incubated with stains for 30 min at 1310.
+
+* image001 - error, capture single image instead of all channels
+* series002 - area C2 - quite a bit of dead cells. zoom = 1.
+* image003 - set zoom to 0.85
+* series004 - area C2 at zoom 0.85
+* series005 - arae
+* series006 - area B2
+* series007 - area C2
+* series008 - area C3
+* series009 - area C5
+
+The coverslip had cracked. This might be the cause of the large tilting in the images. Also perhaps the sudden out of focus.
+
+Move to well 2,1 area A10
+
+* series010 - much flatter field of view. maybe further from cracks. But also here quite a bit of dead cells. 
+* series011. Area A09
+
+Slide discarded after imaging.
