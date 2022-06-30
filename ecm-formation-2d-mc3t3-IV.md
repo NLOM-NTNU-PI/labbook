@@ -58,3 +58,9 @@ Move to well 2,1 area A10
 * series011. Area A09
 
 Slide discarded after imaging.
+
+## Cell culture fixation
+
+30062022, 09:00
+
+Slide S2 fixed according to protocol protocoll-cell-culture-fixation.md (~/protocols)
