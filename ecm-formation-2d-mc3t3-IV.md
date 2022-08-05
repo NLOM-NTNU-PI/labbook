@@ -25,7 +25,7 @@ T-stage was set to 29 deg. Changed to 37 deg.
 * 1736 (stopped to series004) Added water. T = 36.1.
 * 1932 Checked water drop (Stopped to series005), seemed to be plenty of water left. Restarted. 
 * 2128 Checked water (stopped to series006). Seemed to be still quite a bit left.
-* about 2320. Signal drifted, seemed like focus was drifting away. Large blob in likely same location. Signal seems somewhat worse. Captured and image in what is likely same location. Image008.
+* about 2320. Signal drifted, seemed like focus was drifting away. Large blob in likely same location. Signal seems somewhat worse. Captured and image in what is likely same location. Image008. 
 * Moved to area D2. Some collagen is appearing here.
 * 0549. Still partly in focus but some drift during the night. C02 flask empty during the night.
 * Image010 Single Image at D2, refocused. Some collagen network present. About 5 mu into sample from previous series.
@@ -53,7 +53,7 @@ Cells have been incubated with stains for 30 min at 1310.
 The coverslip had cracked. This might be the cause of the large tilting in the images. Also perhaps the sudden out of focus.
 
 Move to well 2,1 area A10
-
+  
 * series010 - much flatter field of view. maybe further from cracks. But also here quite a bit of dead cells. 
 * series011. Area A09
 
@@ -176,3 +176,24 @@ Change to well 2,1 (using bottom right as (1,1) and left of that as (2,1).) This
 
 
 There is some variation in z so when adjusting for max intensity this might affect the chosen layer and thus structure.
+
+## Dataanalysis ecm-formation-2d-mc3t3-IV-1
+\date 050822
+
+Investigating images from experiment ecm-formation-2d-mc3t3-IV-1
+
+The imaging plane seemed to be quite well preserved even after changing water (between series 2 to 3 and 4 to 5). Can be seen from the bright specks in the SHG channel.  The SHG signal is very low in this plane and no dynamics can be seen (visualize with range 0-1). 
+
+In series 7, the imaging plane drifts and the SHG signal i stronger in another plane and collagen fibrils can be seen (image 12 in the series).
+
+Series 9 is an overnight scan in a different ROI. Some collagen can be seen but no obvious dynamics apart from noise. At some point (image 24-28) the imaging plane shifts over a time of about 20 minutes. It was later observed that the coverslip had cracked but unclear if this could lead to such a gradual change in imaging plane.  Some movement is visible in the upper left corner after the shift, but more movement of ECM rather than dynamics. Imaging plane seems quite stable due to some SHG active particles presents.
+
+Image 11 and 12 show differences in collagen at 50/50 vs 50/30. The difference is very large. At 50/30 many pixels have a signal count of 1-2 (seen by adjusting cut-off). At 50/50, many signal pixels are in the range 3-10, The strongest go up to 40-50 counts.
+
+Image 13 and 14 shows difference between 400 Hz and 100 Hz imaging speed. Difference is comparable to power signal.
+
+Todo:
+* Extract upper right corner of series 9 after imaging plane shift
+* Important to find layer with strongest SHG signal. Where is this relative to the bottom surface?
+* Need a reference of signal we are looking for to opimize power settings to these levels.
+* For future try 63 x oil for better z-resolution.
