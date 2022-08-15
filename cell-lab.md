@@ -17,7 +17,7 @@ This is passage 29.
 
 Training for cell-lab. Learned to split cells.
 
-MC3T3 cells were thawed yesterday (which ones) and seeded in 25 cm2 (T25) flasks.
+MC3T3 cells were thawed yesterday (cells frozen 28.10.21 - P27) and seeded in 25 cm2 (T25) flasks.
 
 Splitting procedure
 * Remove medium. Wash with PBS
