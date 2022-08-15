@@ -4,8 +4,8 @@ Training for splitting cells on my own.
 Cells counted in cellcounter, 2 readings in each field
 | A     | B     |
 |---    |---    |
-| 4e5   | 3.6e5 |
-| 3.1e5 | 3.6e5 |
+| 4e5   | 3.1e5 |
+| 3.6e5 | 3.6e5 |
 
 Average concentration (x2) = 7.2e5 cells/ml.  Total 7.2e6 cells in flask.
 
