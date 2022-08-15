@@ -1,3 +1,18 @@
+# 150822
+Training for splitting cells on my own.
+
+Cells counted in cellcounter, 2 readings in each field
+| A     | B     |
+|---    |---    |
+| 4e5   | 3.6e5 |
+| 3.1e5 | 3.6e5 |
+
+Average concentration (x2) = 7.2e5 cells/ml.  Total 7.2e6 cells in flask.
+
+12 ml medium in new T75 flask with 1 ml cell suspenion, 7.2e5 cells.
+4 ml medium in new T25 flask with 0.11 ml cell suspension, 0,79e6 cells.
+This is passage 29.
+
 # 120822
 
 Training for cell-lab. Learned to split cells.
