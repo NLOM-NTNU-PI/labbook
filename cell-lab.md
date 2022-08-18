@@ -8,6 +8,7 @@ Cell counter readings from source flask was
 |---     |---    |
 | 1.7e5  | 1.1e5 |
 | 2.0+e5 | 1.2e5 |
+
 (multiply by 2 for assumed tryptophan dilution)
 
 Average concentration 3.0e5 cells/ml
