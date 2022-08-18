@@ -1,3 +1,23 @@
+# 180822
+Split cells and seed into 8-well plates for imaging.
+Cells were split according to standard protocol.
+Seeded into T75 flask marked P30 (passage 30)
+
+Cell counter readings from source flask was
+| A      | B     |
+|---     |---    |
+| 1.7e5  | 1.1e5 |
+| 2.0+e5 | 1.2e5 |
+(multiply by 2 for assumed tryptophan dilution)
+
+Average concentration 3.0e5 cells/ml
+
+12 ml medium was added to new flask, 1 ml (3.0e5 cells) was added.
+
+2 50 ml bottles with medium were made
+
+300 uL of cell suspension was added to 4 wells in 8-well plate and placed in incubator in weight room.
+
 # 150822
 Training for splitting cells on my own.
 
