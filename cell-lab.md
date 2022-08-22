@@ -1,3 +1,23 @@
+# 220822
+Concentration of cells in Main cell flask appeared quite low. Decided to not split. Exchanged 6 ml medium and returned to incubator.
+
+Exchanged medium in 8-well plate. 300 uL.
+
+Split cells in reserve flask (appeared quite dense in some areas in flask).
+
+Cell counter reading.
+| A   | B     |
+|---  |---    |
+|1.3e5|2.3e5  |
+|1.1e5|1.5e5  |
+|9.0e4|1.0e5  |
+
+Average concentration (after x2) 2.7e5 cells/ml
+
+6 ml medium added to T25 flask. Added 2 ml of cell suspension (3.4e5 cell)
+
+This was passage 30 in reserve flask. Used medium in 50 ml marked *extra* to use this only for reserve flask and the other for the main flask.
+
 # 180822
 Split cells and seed into 8-well plates for imaging.
 Cells were split according to standard protocol.
