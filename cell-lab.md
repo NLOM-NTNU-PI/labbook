@@ -1,3 +1,22 @@
+# 290822
+
+Both flasks appeared quite full with cells, as determined from microscopy.
+
+# 260822
+
+Checked both flasks. There appeared to be very few cells in both, by visual inspection in the microscope. 
+
+From thermofischer (https://www.thermofisher.com/no/en/home/references/gibco-cell-culture-basics/cell-culture-protocols/cell-culture-useful-numbers.html) the following guidelines are given
+
+| flask | seeding | confluence  |
+|---    |---      |---          |
+|T75   | 2.1e6   | 8.4e6        |
+|T25  | 0.7e6   | 2.8e6   |
+
+T25 flask was seeded with 3.4e5 cells (220822) which is about half of guidelines.
+
+T75 flask was seeded with 3.0e5 cells (180822) which is almost 1/10 of recommendation so no wonder it takes some time.
+
 # 220822
 Concentration of cells in Main cell flask appeared quite low. Decided to not split. Exchanged 6 ml medium and returned to incubator.
 
