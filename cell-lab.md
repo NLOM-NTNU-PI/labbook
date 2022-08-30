@@ -1,3 +1,18 @@
+# 300822
+Split cells in main flask, T75, 180822, P30 - > T75, 310822, P31, (marked wrong date on flask)
+
+Cell counter reading.
+| A   | B     |
+|---  |---    |
+|4.8e5|5.1e5  |
+|4.7e5|6.0e5  |
+
+Average concentration (x2): 1.0e6 cells/ml
+
+Seeded 2 ml cell suspension, 2.0e6 cells into new T75 flask with 12 ml medium (-AA)
+
+Exchanged medium in 8 well plate (300 uL)
+
 # 290822
 
 Both flasks appeared quite full with cells, as determined from microscopy.
