@@ -1,3 +1,18 @@
+# 310822
+Split cells in reserve flask T25, 220822, P30 -> T25, 310822, P31
+
+Cells appeared quite confluent in microscope
+
+Cell count
+| A   | B     |
+|---  |---    |
+|7.1e5|5.1e5  |
+|6.3e5|5.6e5  |
+
+Average concentration (x2) 1.2e6 cells/ml
+
+4 ml medium added to new flask. 700 uL of cell suspension, 0,84e6 cells added to new flask.
+
 # 300822
 Split cells in main flask, T75, 180822, P30 - > T75, 310822, P31, (marked wrong date on flask)
 
