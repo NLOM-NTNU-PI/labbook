@@ -158,6 +158,36 @@ Seems like the only quick gdd settings made are for 5x dry (which is max) and ze
 
 The 63x signal did not seem to give much in terms additional structure. The z-resolution is better but the structure is not much different.
 
+# ibd-serotonin-22-1-1
+
+Collected overview images of rat ileum sections (physical sample serotonin-22-1). Primary intention is for recording location of high resolution LSM images.
+
+Project: ibd-serotonin
+Project folder OneDrive-NTNU/projects/2021 IBD-serotonin
+Experiment: ibd-serotonin-22-1
+Data storage location: aurora/ibd-serotonin-22-1
+
+Slides where imaged on Zeiss LSM 800. BF and DAPI signals where collected on camera. Stiching was used for larger sections to cover whole area.
+
+The files were named as in the following list. The two first numbers are markings on the slide. The last letter indicates which of several sections on one slide. The letter A was closes to the marking area on the slide. A .czi file as well as a .tif file were stored
+
+* 10660-35-A
+* 10659-34-A/B
+* 10670-46-A
+* 10668-44-A
+* 10667-43-A
+* 10666-42-A/B
+* 10661-37-A/B
+* 10662-38-A/B
+* 10663-39-A/B
+* 10664-40-A/B
+* 10653-26-A/B
+* 10654-27-A
+* 10655-28-A/B/C
+* 10656-30-A/B
+* 10657-31-A/B
+* 10658-32-A/B
+* 10665-41-A
 
 
 
