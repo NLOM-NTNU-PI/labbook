@@ -1,3 +1,22 @@
+# 060922
+Medium in T75 flask was turbid with thin sheets (biofilm) floating in the media. No healthy cells could be seen. No obvious signs of infection. Uncertain if there has been an infection or if the cells have died (grown too long) and detached.
+
+T25 flask looked good with healthy nearly confluent cells.
+
+Cell count
+| A   | B     |
+|---  |---    |
+|3.7e5|4.2e5  |
+|5.4e5|3.6e5  |
+
+Average concentration (x2) 8.5e5 cells/ml
+
+Seeded cells in two new flasks T25 and T75.
+T25 flask (T25, 060922, P32)  was seeded with 6 ml medium and 300 uL cell suspension -> 2,5e5 cells.
+T75 flask (T75, 060922, P32)  was seeded with 13 ml medium and 1 ml cell suspension -> 8.5e5 cells.
+
+Had to use both 50 ml bottles of medium and these were now empty.
+
 # 310822
 Split cells in reserve flask T25, 220822, P30 -> T25, 310822, P31
 
