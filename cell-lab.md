@@ -1,3 +1,10 @@
+# 070922
+Fixed cells in 8-well plates from 180822 according to standard protocol
+
+Marked 070922 MCR3T3.
+
+Stored in fridge.
+
 # 060922
 Medium in T75 flask was turbid with thin sheets (biofilm) floating in the media. No healthy cells could be seen. No obvious signs of infection. Uncertain if there has been an infection or if the cells have died (grown too long) and detached.
 
