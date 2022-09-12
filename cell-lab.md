@@ -1,3 +1,24 @@
+# 090922
+Main flask (T75) cell count
+Cell count
+| A   | B     |
+|---  |---    |
+|1.9e5|1.1e5  |
+|2.1e5|1.1e5  |
+Average concentration (x2) 3e5 cells/ml
+
+Seeded 4 ml of cell suspension = 1.2e6 cells in main flask, together with 10 ml medium (T75, 090922, P33).
+
+Reserve flask (T25)
+Cell count
+| A   | B     |
+|---  |---    |
+|1.0e5|0.7e5  |
+|1.3e5|1.1e5  |
+Average concentration (x2) 2,0e5 cells/ml
+
+Seeded 3 ml of cell suspension = 6.0e5 cells in reserve flask, together with 6 ml medium (T25, 090922, P33).
+
 # 070922
 Fixed cells in 8-well plates from 180822 according to standard protocol
 
