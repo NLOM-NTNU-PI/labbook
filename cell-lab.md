@@ -1,3 +1,21 @@
+# 140922
+
+Cellmedium in T75 flask appeared clear. In the microscope the cells appear highly confluent with a high contrast network around them. When adding trypsin the cells detached in sheets, and appear similar to T75 flask on 060922. Current hyptothesis is that the cells have started to produce matrix and are stuck in the matrix. Contents were discarded.
+
+T25 flask appear normal, confluent but low contrast. Added 1 ml of trypsin (instead of .5 ml). Cells detached noramlly.
+
+Reserve flask (T25)
+Cell count
+| A   | B     |
+|---  |---    |
+|4.1e5|3.7e5  |
+|3.9e5|3.9e5  |
+Average concentration (x2) 7.8e5 cells/ml
+
+Added 1.2 ml medium to main flask for 9,4e5 cells in main flask (T75,MC3T3,140922,P34)
+Added 0.4 ml medium to reserve flask for 3.1e5 cells in main flask (T25,MC3T3,140922,P34)
+
+
 # 090922
 Main flask (T75) cell count
 Cell count
