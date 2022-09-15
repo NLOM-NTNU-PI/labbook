@@ -1,3 +1,26 @@
+# 150922
+
+Concentration calculations are wrong. Should divide by 2 instead of multiplying by 2.
+
+Calcualating with correct factor gave the following finatl and inital concentrations and days of incubations
+
+| initial | final | days |
+|---|---|---|
+|14e5|18e5|3|
+|1.8e5|7.5e5|3|
+|0.7e5|2.5e5|11|
+|5e5|T|7|
+|2.1|7.5e5|3|
+|3.0e5|T|5
+|2.3e5|
+
+0.2e5 3.4e5 7
+1.4e5 15e5  9
+2.1e5 11e5  6
+0.6e5 2.5e5 3
+1.5e5 9.8e5 5
+0.7e5
+
 # 140922
 
 Cellmedium in T75 flask appeared clear. In the microscope the cells appear highly confluent with a high contrast network around them. When adding trypsin the cells detached in sheets, and appear similar to T75 flask on 060922. Current hyptothesis is that the cells have started to produce matrix and are stuck in the matrix. Contents were discarded.
@@ -10,6 +33,7 @@ Cell count
 |---  |---    |
 |4.1e5|3.7e5  |
 |3.9e5|3.9e5  |
+
 Average concentration (x2) 7.8e5 cells/ml
 
 Added 1.2 ml medium to main flask for 9,4e5 cells in main flask (T75,MC3T3,140922,P34)
@@ -23,6 +47,7 @@ Cell count
 |---  |---    |
 |1.9e5|1.1e5  |
 |2.1e5|1.1e5  |
+
 Average concentration (x2) 3e5 cells/ml
 
 Seeded 4 ml of cell suspension = 1.2e6 cells in main flask, together with 10 ml medium (T75, 090922, P33).
