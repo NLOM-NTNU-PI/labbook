@@ -1,3 +1,26 @@
+# 230922
+
+-- Need to add results from sylvie --
+Previous flasks read 1e6 cells on large flask and 4e5 cells on small flask. Seeded 20.05.09. Was marked P35
+
+Main flask. Cells appear nearly confluent and in good shape in microscope
+
+Cell count
+| A   | B     |
+|---  |---    |
+|2.5e5|3.8e5  |
+|3.5e5|3.3e5  |
+
+1.6e5 cells/ml (/2).
+
+T75 flask
+Seeded 1,25 ml supsepnsion for 2,0e5 cells.
+P36
+
+T25 flask
+seeded 0,25 ml for 0,4e5 cells
+P36
+
 # 150922
 
 Concentration calculations are wrong. Should divide by 2 instead of multiplying by 2.
