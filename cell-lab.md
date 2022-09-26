@@ -1,3 +1,7 @@
+# 260922
+
+Checked cells in microscope. Looked good, quite a bit of cells but not confluent. Seemed slightly less dense in T25 flask.
+
 # 230922
 
 -- Need to add results from sylvie --
