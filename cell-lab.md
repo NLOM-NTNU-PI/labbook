@@ -1,3 +1,22 @@
+# 270922
+
+The cells in the T75 flask were seemed nearly confluent but not quite there (subjective 80%). The T25 appeared somewhat less confluent (subjective 60%). The T25 was kept in incubator as additional reserve.
+
+Split cells from T75 flask. 
+
+Cell count T75 flask.
+| A   | B     |
+|---  |---    |
+|1.7e5|2.6e5  |
+|2.2e5|2.2e5  |
+
+Average (/2) 1.1e5 cells/ml
+
+Decided to seed out somewhat more cells in new T75 flask since three days till next splitting. Seeded 2.7 ml for 3.0 e5 cells in new flask. Used 11 ml medium. P37 (though I think maybe the flask was marked erronously with P36).
+
+Seeded 0.45 ml in new T25 reserve flask for 0.5e5 cells. Used 5.5 ml medium. P37.
+
+Seeded
 # 260922
 
 Checked cells in microscope. Looked good, quite a bit of cells but not confluent. Seemed slightly less dense in T25 flask.
