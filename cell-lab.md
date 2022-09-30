@@ -1,3 +1,28 @@
+# 300922
+
+Split cells in main, T75, flask. 
+
+Cell density appeared quite low in the main flask and the T25 flask from 270922/P37 (subjective 40%). In the T25 flask from 230922/P36 the cells appeared confluent but had not detached (this flask was discarded).
+
+Cell count from T75/270922/P37
+
+| A   | B     |
+|---  |---    |
+|1.1e5|1.3e5  |
+|2.0e5|1.9e5  |
+
+Average count (/2) 0.8 cells/ml.
+
+Seeded 2.5 ml cell suspension in T75 flask for 2.0e5 cells
+
+Seeded 0.6 ml cell suspension in T25 flask for 0.5e5 cells.
+
+*Notice that both this flask should be P38 but I think both might be marked with the wrong passage number."
+
+The T25 flask from 270922/P37 was kept in the incubator
+
+Have been aiming for 2.0e5/0.5e5 cells in T75/T25 flask for 4 days incubation and tried 3.0e5/0.5e5 cells for 3 days of incubation. The cell counts/confluence are a little too low. Change to 5e5/1e5 cells when seeding to see if the cell counts after 3-4 days are a little higher.
+
 # 270922
 
 The cells in the T75 flask were seemed nearly confluent but not quite there (subjective 80%). The T25 appeared somewhat less confluent (subjective 60%). The T25 was kept in incubator as additional reserve.
