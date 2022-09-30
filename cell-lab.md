@@ -17,7 +17,7 @@ Seeded 2.5 ml cell suspension in T75 flask for 2.0e5 cells
 
 Seeded 0.6 ml cell suspension in T25 flask for 0.5e5 cells.
 
-*Notice that both this flask should be P38 but I think both might be marked with the wrong passage number."
+**Notice that both this flask should be P38 but I think both might be marked with the wrong passage number.**
 
 The T25 flask from 270922/P37 was kept in the incubator
 
