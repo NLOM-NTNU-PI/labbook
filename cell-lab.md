@@ -1,3 +1,7 @@
+# 051022
+
+Cells in both T25 and T75 flasks seemed quite sparse. Decided not to split. As noticed last time, should probably seed with slightly higher density for a 3-4 splitting frequency. Discarded the T25 flask from 230922. The cells appeared quite confluent there.
+
 # 300922
 
 Split cells in main, T75, flask. 
