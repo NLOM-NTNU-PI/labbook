@@ -1,3 +1,22 @@
+# 071022
+
+Quite a bit of cells in flask but not quite confluent (subjective 70% in T75 and 30% in T25)
+
+Splitt cells in T75 flask.
+
+Cell count
+| A   | B     |
+|---  |---    |
+|3.4e5|2.9e5  |
+|3.2e5|3.1e5  |
+
+Average concentration (/2) 1.6e5 cells/ml.
+
+Seeded 3.1 ml in new T75 flask for 5e5 cells, and 0.63 ml in new T25 flask for 1e5 cells.
+Flasks marked P39 (which is now correct)
+
+Old T25 returned to incubator
+
 # 051022
 
 Cells in both T25 and T75 flasks seemed quite sparse. Decided not to split. As noticed last time, should probably seed with slightly higher density for a 3-4 splitting frequency. Discarded the T25 flask from 230922. The cells appeared quite confluent there.
