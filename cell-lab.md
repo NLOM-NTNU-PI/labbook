@@ -1,3 +1,28 @@
+# 201022
+
+Cells in large flask look strange (dead, produced matrix?)
+
+Cells in T25 flask look confluent and ok.
+
+# 121022
+
+(Notes entered 201022)
+
+Cell count
+
+Cell count
+| A   | B     |
+|---  |---    |
+|5.0e5|6.6e5  |
+|5.3e5|6.1e5  |
+
+Average cell concentrations (/2) 2.9e5 cells/ml
+
+Seeded
+
+1.2 ml for 5e5 cells in T75 flask
+0.35 ml for 1e5 cells in T25 flask.
+
 # 071022
 
 Quite a bit of cells in flask but not quite confluent (subjective 70% in T75 and 30% in T25)
