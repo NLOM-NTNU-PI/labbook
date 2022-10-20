@@ -4,11 +4,27 @@ Cells in large flask look strange (dead, produced matrix?)
 
 Cells in T25 flask look confluent and ok.
 
+Split T25 flask. 
+
+Used .5 ml trypsin and 3.5 ml medium before counting.
+
+Cell count
+| A   | B     |
+|---  |---    |
+|8.6e5|8.5e5  |
+|6.9e5|7.4e5  |
+
+Average cell concentrations (/2) 3.9e5 cells/ml
+Total cells was 1.5e6 cells
+
+Used 1.28 ml cell suspension in new T75 flask for 5e5 cells
+Used 0.26 ml cell suspension in new T25 flask for 1e5 cells
+
+New flasks were P41.
+
 # 121022
 
 (Notes entered 201022)
-
-Cell count
 
 Cell count
 | A   | B     |
