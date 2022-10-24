@@ -1,3 +1,21 @@
+# 241022
+
+Cells looked good in both flasks (70 % and 60 % confluent in T75 and T25, respectively)
+
+Split cells in T75 flask, returned other to incubator.
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|2.9e5|3.4e5  |
+|4.0e5|4.3e5  |
+
+Average concentration (/2) was 1.8 cells/ml
+
+Seeded 2.8 ml for 5e5 cells in T75 flask (P42)
+Seeded 0.6 ml for 1e5 cells in T25 flask (P42)
+
 # 201022
 
 Cells in large flask look strange (dead, produced matrix?)
