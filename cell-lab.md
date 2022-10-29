@@ -1,3 +1,21 @@
+# 291122
+
+Cells in T75 flask did not look normal, like they had produced matrix - discarded.
+
+There was some small debri (much smaller than cells) floating in the T25 flask. Cells looke fine, 70% confluent by eye.
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.8e5|2.7e5  |
+|3.6e5|2.4e5  |
+
+Average concentration (/2) was 1.6 cells/ml
+
+Seeded 3.1 ml for 5e5 cells in T75 flask (P43)
+Seeded 0.63 ml for 1e5 cells in T25 flask (P43)
+
 # 241022
 
 Cells looked good in both flasks (70 % and 60 % confluent in T75 and T25, respectively)
