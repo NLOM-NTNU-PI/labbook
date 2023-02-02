@@ -189,7 +189,21 @@ The files were named as in the following list. The two first numbers are marking
 * 10658-32-A/B
 * 10665-41-A
 
+# ibd-serotonin-22-2
 
+Started system according to plan
+LAS X file : ibd-serotonin-22-2
 
+Sample order
+
+* 10653 #26
+
+A lot of DAPI fluorescence in SHG channel. Maybe the staining protocol used has been different
+
+Changed to different sample, same DAPI background
+
+Image 002 70/30 settings.
+Image 003 70/22 Power set to avoid any saturation
+Image 004 70/30 Dapi is completly saturated.
 
 
