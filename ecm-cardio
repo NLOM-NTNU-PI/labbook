@@ -6,3 +6,14 @@
 
 Investigate two samples provided by Chloe Braxton form UiO. Mouse cardiac tissue. Two samples. One on glass slide stained with WGA and dapi and one in a petri-dish with glass bottom with WGA 555 only. More details in "23 01 18 samples for SHG test.docx" in project folder.
 
+(notes compied in 200223, severly incomplete. Difficult to find settings in Leica format, record these in file)
+
+Sample closest to marking area
+
+WLL at 554 14 % (higher rapidly gave bleaching). gain 750
+MP image TLD2, RLD1, RLD2
+Sequential scan of both
+Same but 1024 and 100hz
+New location 512 400
+With 1024 and 100
+optimized section for wga stain
