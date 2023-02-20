@@ -17,3 +17,32 @@ Same but 1024 and 100hz
 New location 512 400
 With 1024 and 100
 optimized section for wga stain
+
+### 200223 Analysis
+
+Analyising images from 030223 ecm-cardio-23-1
+
+(lab notes were severely incomplete, needs to be improved!)
+
+It seems like TLD2 is FSHG while RLD1 (at least the first of the RLD channels in the lif file) is BSHG. Need to check this.
+
+Image001 and Image002 are with WLL (WGA) and MP images in seperated files. The TLD signal seems to show primarily signal from the myosin, cardiomyocytes. In the RLD image, there are some collagen fibrils, much thinner and less sparse than in WGA image. Perhaps thicker fibrils vs loose connective tissue. There is some leakage of DAPI signal into the RLD channel. Strange that DAPI signal is only from half the image. Maybe the cell nuclei somehow appear in layers?
+
+Series003 and Series 004 are the same images with 512 vs 1024 pixels. Some striations are also seen in the RLD image. A diff between the TLD (mainly myosin) and RLD (both) could be promising candidate for visualising the SHG signal.
+
+Series005 and Series 006 are also same areas as above. Both these and previous are areas that longitudinal sections relative to myosin cells.
+
+Series007 and Serie008 are also from the same area. One is focused for MP, the other for WGA. Clearly the lasers are not confocal. 
+
+Image009 seperate WGA signal. Image011 and 012 are MP images but shutdown of hybrid detectors.
+
+Image012 is MP image and Image013 is WGA image.
+
+Image014 is zoomed in x2
+
+Image015 is MP, x2. Image016 and 017 is wga with 16 same focal plane as MP and 17 refocused to optimize 017.
+
+To do
+-Confirm that first RLD channel is shortest wavelength (shg).
+-Read up on wavelength/polarization to separate signals.
+-Check how far signals are from confocality - find (automated) method to combine.
