@@ -46,3 +46,16 @@ To do
 -Confirm that first RLD channel is shortest wavelength (shg).
 -Read up on wavelength/polarization to separate signals.
 -Check how far signals are from confocality - find (automated) method to combine.
+
+### 220223
+ecm-cardio-23-1-test
+
+Checking which channel is the reflected shg signal.
+Used a cartilage sample to confirm that the reflected shg signal is the RLD1 channel
+This was indeed the case.
+
+Collected 1 image from bone and 1 from bone-cartilage interface.
+
+The signal from HyD RLD2 was surprisingly weak.
+
+Talked to astrid. Apparently the TLD cube is 495 beamsplitter with TLD1 500-550 and TLD2 445/20, while the RLD cube had RLD1: 445/20 and RLD2 395/40.
