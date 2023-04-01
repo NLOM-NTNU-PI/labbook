@@ -1,3 +1,23 @@
+# 010423
+
+Split cells that had been cultivate by Sylvie Lelu. T25 flask, P25, 3e5 cells. Last split tuesday 28.3. 
+
+Cells looked nice and confluent in microscope.
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.9e5|4.2e5  |
+|4.2e5|4.5e5  |
+
+Average concentration (/2) was 2.1 c/ml.
+
+Seeded 1.42 ml in T25 flask for 3e5 cells
+Seeded 0.48 ml in T25 flask for 1e6 cells.
+
+This is passage 26.
+
 # 291122
 
 Cells in T75 flask did not look normal, like they had produced matrix - discarded.
