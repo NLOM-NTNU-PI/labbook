@@ -30,6 +30,7 @@ Image001 and Image002 are with WLL (WGA) and MP images in seperated files. The T
 
 Series003 and Series 004 are the same images with 512 vs 1024 pixels. Some striations are also seen in the RLD image. A diff between the TLD (mainly myosin) and RLD (both) could be promising candidate for visualising the SHG signal.
 
+
 Series005 and Series 006 are also same areas as above. Both these and previous are areas that longitudinal sections relative to myosin cells.
 
 Series007 and Serie008 are also from the same area. One is focused for MP, the other for WGA. Clearly the lasers are not confocal. 
@@ -59,3 +60,31 @@ Collected 1 image from bone and 1 from bone-cartilage interface.
 The signal from HyD RLD2 was surprisingly weak.
 
 Talked to astrid. Apparently the TLD cube is 495 beamsplitter with TLD1 500-550 and TLD2 445/20, while the RLD cube had RLD1: 445/20 and RLD2 395/40.
+
+### 020423
+ecm-cardio-23-2
+
+Investigating the sample in petri dish. 
+Sample looked quite fragmented in microscope.
+Easy to acquire signal
+
+power 50/50
+1024x1024
+100 Hz.
+
+* Image001 - illustration of signals. Myosin seems to give more signal in the forward direction. Maybe use fluorescence to filter out FSHG maybe from myosin. These signal seem to overlap.
+* Image002 - different location
+* Image003 - different location
+* Image004 - different location.
+Had to reset microscope to initialize stage
+* Image005 - new location
+* Image006 - new location
+* Tilescan 001 - saturated in two positions with 50/50 power setting
+* Tilescan 002 - try with 50/30 power setting. No saturation this time.
+
+Switched to 63x oil. Signal different, blurry. Maybe oil not very good mathcing for the coverglass and watermounting medium used here. 
+* Image007
+* Image010
+Switch to 63 x water.
+* Image011 - seems very blurry
+
