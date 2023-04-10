@@ -1,3 +1,18 @@
+# 050423
+
+Split cells from flask that was seeded with 3e5 cells. Other was discarded. 
+
+Cell count
+| A   | B     |
+|---  |---    |
+|3.3e5|2.5e5  |
+|4.0e5|3.1e5  |
+
+Avarage concentration (/2) was 1.6e5 c/ml
+
+Seeded one T25 flask with 1.8 ml for 3e5 cells
+Seeded one T25 flask with 0.6 ml for 1e5 cells
+
 # 010423
 
 Split cells that had been cultivate by Sylvie Lelu. T25 flask, P25, 3e5 cells. Last split tuesday 28.3. 
