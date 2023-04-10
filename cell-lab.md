@@ -1,3 +1,20 @@
+# 100423
+
+Cells in flask seeded with 3e5 looked highly confluent, some cells looked more square than spindle like, maybe indicating that cells had started to bind together or form some matrix. After trypsin, the cells also seemed to stay attached to eachother. The flask with 1e5 c did not seem very confluent. Exchanged 4 ml cell medium from this flask and returned to cell (this as a backup if the split cells from the other flasks behave as desired).
+
+Cell count from flask seeded with 3e cells after trypsin (1 ml) and resuspension (4 ml)
+
+| A   | B     |
+|---  |---    |
+|8.0e5|5.7e5  |
+|6.6e5|6.2e5  |
+
+Average cell count (/2) was 3.3e5 c/ml.
+
+Seeded 0.9 ml in new T25 flask. This is passage 28.
+
+Cells were seeded in two 8-well plates. Four wells were used on each. 150 uL cell suspension was added to each well for 5e4 cells. Another 150 uL of -AA medium was added to each well.
+
 # 050423
 
 Split cells from flask that was seeded with 3e5 cells. Other was discarded. 
