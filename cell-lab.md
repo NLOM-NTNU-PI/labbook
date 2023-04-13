@@ -1,3 +1,27 @@
+#130423
+
+## Splitting cells
+Cells in T25 flask looked nice
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.9e5|2.7e5  |
+|3.0e5|3.1e5  |
+
+Average cell count (/2) was 1.59e5 c/ml.
+
+Seeded 1.9 ml in new T25 flask for 3e5 cells. I think the flask was erronously marked 140423 instead of 130423.
+
+Passage 29
+
+## Well plates.
+
+The cells in previous well plate 100423 did not seem to have attached. They looked round and floating. Uncertain what happened. Returned the cells to incubator in weighing room
+
+Added cells to a new well plate (0.31 ml for 5e4 cells per well). Added an additional 1 ml of medium.
+
 # 100423
 
 Cells in flask seeded with 3e5 looked highly confluent, some cells looked more square than spindle like, maybe indicating that cells had started to bind together or form some matrix. After trypsin, the cells also seemed to stay attached to eachother. The flask with 1e5 c did not seem very confluent. Exchanged 4 ml cell medium from this flask and returned to cell (this as a backup if the split cells from the other flasks behave as desired).
