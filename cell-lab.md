@@ -1,4 +1,10 @@
-#130423
+# 140423
+
+Cells in well plates seemed nicely attached. Somewhat grouped in on area with other areas empty.
+
+Cells in flask looked nicely attached with individual cells and long spindles.
+
+# 130423
 
 ## Splitting cells
 Cells in T25 flask looked nice
