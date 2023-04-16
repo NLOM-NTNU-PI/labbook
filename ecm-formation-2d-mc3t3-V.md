@@ -47,3 +47,36 @@ Well (1,1), imaged areas A1-A4 (Image 1,2,4,5)
 Well (2,1), imaged areas A1-A4 (Image 6,7,8,9)
 Well (2,2), imaged areas A1-A4 (Image 10-14)
 Well (2,2), imaged areas A1-A4 (remaining)
+
+# 160422
+
+ecm-formation-2d-mc3t3-V-III-2
+
+power 50/30
+pmt gain 900
+1024, 200 Hz
+0.85 zoom
+
+Well 1,1 
+Areas A1-A4 : Image 1-4
+Areas B1-B4 : Image 5,6,8,10
+
+Well 2,1
+Areas A1-A4 : Image 11-14
+Areas B1-B4 : Image 15-18
+
+No collagen here
+
+Well 2,2
+Areas A1 : Image 21
+Areas B1 : Image 22
+
+Well 1,2
+Area B1 : Image 23
+Area B2 : Image 24
+
+No collagen here
+
+The temperature had been on since yesterday with the temperature sensor outside so the microscope was very hot.
+Put the temperature sensor inside and aired out until 37 degrees. At the end of the imaging run the temperature was 41 degrees.
+
