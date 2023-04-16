@@ -8,7 +8,8 @@ Created new media with AA
 Used .3 ml of 50 mM AA (= 8.8 mg/ml) in 50 ml AA free media for .3 ml * 8.8 mg/ml /50 ml = 53 ug/ml.
 
 Exchanged media in well plates with AA free media, with AA added and normal media (containing AA) according to table (ibidi mark lower left)
-
+| 1  |  2 | 
+|---|---|
 | AA added | normal |
 | AA added | AA free |
 
