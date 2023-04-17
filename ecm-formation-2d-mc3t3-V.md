@@ -80,3 +80,32 @@ No collagen here
 The temperature had been on since yesterday with the temperature sensor outside so the microscope was very hot.
 Put the temperature sensor inside and aired out until 37 degrees. At the end of the imaging run the temperature was 41 degrees.
 
+# 170422
+
+ecm-formation-2d-mc3t3-III-3
+
+
+Well 1,1, 
+Area A1-A4 Image 1-4
+Area C1-C4 Image 5-8
+
+Increase power to 50/60
+C5 : Image 9
+Increas power to 50/80 + acc 2
+C5 : image 10
+
+No immediate damage or bleaching visible.
+
+Back to normal power.
+Well 2,1
+Area A1-A4 : Image 11-14
+
+Well 2,2
+A1 : Image 15
+Power 50/80 acc 2/100 Hz
+B2 : Image 16
+
+Well 2,1
+(still high power)
+
+B2 : Image 17
