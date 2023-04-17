@@ -1,3 +1,20 @@
+# 170423
+
+Cells in T25 flask look confluent and healthy. 
+
+Cells were split.
+
+Cell count 
+
+| A   | B     |
+|---  |---    |
+|2.9e5|3.0e5  |
+|3.7e5|3.2e5  |
+
+Average cell count (/2) was 1.6e5 c/ml. Added 1.89 ml to new T25 flask for 3e5 c.
+
+Changed medium in well plate. Removed and added 300 uL Made a mistake and first added AA free medium to two leftmost cells. Fixed by just removing medium again and adding medium with AA added.
+
 # 140423
 
 Cells in well plates seemed nicely attached. Somewhat grouped in on area with other areas empty.
