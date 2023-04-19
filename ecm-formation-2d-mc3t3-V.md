@@ -109,3 +109,27 @@ Well 2,1
 (still high power)
 
 B2 : Image 17
+
+# 190423
+
+ecm-formation-2d-mc3t3-4
+
+Well 1,1
+Area A1-A4 Image 1-5
+subjectively the collagen network seems denser and thicker
+
+Area C2-C5 : Image 6-9
+
+C5 : captured a z-stack image 10
+
+Well 2,1
+Area A1-A4 Image 11-15
+A5 high power image 16
+
+Well 2,2
+Area A1 Image 18
+Area C3 High power image 19
+
+Well 1,2
+Area A1 Image 20
+Area C3 high power image 21
