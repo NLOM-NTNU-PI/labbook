@@ -1,3 +1,27 @@
+# 200423
+
+Cells in T25 flasked look healthy but not really confluent (about 50%?)
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|2.1e5|1.9e5  |
+|1.1e5|2.1e5  |
+
+Average cell count (/2) was 0.9 c/ml. Added 3.3 ml to new T25 flask for 3e5 cells.
+
+This was passage 31
+
+## Well plate
+Changed medium in well plate.
+
+Note that in well (1,2) the medium was changed from normal medium to A++ medium to see if this can trigger collagen production.
+| C1  | C2     |
+|---  |---    |
+|A++|A++  |
+|A++|A--  |
+
 # 170423
 
 Cells in T25 flask look confluent and healthy. 
