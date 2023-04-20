@@ -133,3 +133,21 @@ Area C3 High power image 19
 Well 1,2
 Area A1 Image 20
 Area C3 high power image 21
+
+# 2002423
+
+Image well plate
+well 1,1
+Area A1-A4 Images 2-6
+A5 z-stack Image 7
+A6 high power image 8
+
+Well 2,2
+Area A1 Image 9
+
+Well 1,2
+Area A1 Image 10
+
+Forgot to adjust condensor
+Some strange interference effects in the scanner.
+
