@@ -151,3 +151,22 @@ Area A1 Image 10
 Forgot to adjust condensor
 Some strange interference effects in the scanner.
 
+# 210423
+
+ecm-formation-2d-mc3t3-V-II-5
+
+
+Well 1,1
+Area A1-A4 Image 1-4
+A5 z-stack series 6
+B5 high power image 7
+
+Well 1,2 (got +AA yesterday)
+A1 image 8
+A2 image 9
+A3 image 10 high power
+
+Well 2,2 (normal medium)
+A1 image 11
+A2 image 12
+A3 image 13 high power
