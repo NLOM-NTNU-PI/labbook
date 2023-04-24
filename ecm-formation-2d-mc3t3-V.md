@@ -170,3 +170,27 @@ Well 2,2 (normal medium)
 A1 image 11
 A2 image 12
 A3 image 13 high power
+
+# 240423 
+
+ecm-formation-2d-mc3t3-V-6
+
+well 1,1
+Area A1-A4 Image 1-4
+A5 z-stack image 5
+B5 high power image 6
+B6 z-stack medium power high z-resolution 1mu image 7
+C7-E9 tilescan medium power (50/50) 100 hz. tilescan 1
+
+well 1,2
+A1 - Image 8
+A2 - Image 9
+A3 - Image 10
+A4 - zstack series 11
+A5 - high power image 12
+
+Well 2,2
+A1 image 13
+A2 image 14
+A3 image 15
+A4 high power image 16 
