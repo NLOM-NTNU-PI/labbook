@@ -1,3 +1,88 @@
+# 020523
+
+(registered 040523)
+
+Split old and new cells
+
+## New cells
+
+Used T25 flask that was seeded with 3e5 cells.
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.8e5|4.2e5  |
+|4.3e5|4.4e5  |
+
+Average cell count (/2) was 2.1 c/ml. Added 1.4 ml to new T25 flask for 3e5 cells. 
+
+## Old cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|1.7e5|2.5e5  |
+|3.1e5|1.9e5  |
+
+Average cell count (/2) was 1.15 c/ml. Added 2.6 ml to new T25 flask for 3e5 cells.
+
+## Well plates
+
+Well plates were fixed with PFA according to protocol and stored in refrigerator.
+
+# 270423
+(registered 040523)
+Split cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|2.6e5|2.9e5  |
+|2.3e5|4.3e5  |
+
+Average cell count (/2) was 1.5 c/ml. Added 2 ml to new T25 flask for 3e5 cells.
+
+This was passage 33
+
+## Well plate
+Changed medium - AA+ medium for all wells
+
+## New cells. 
+
+MC3T3 cells from Diamante Boscaro that were seeded 230423
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|2.9e5|2.5e5  |
+|3.0e5|3.0e5  |
+
+Average cell count (/2) was 1.44 c/ml. Added 2.1 ml to new T25 flask for 3e5 cells. Also made one T25 flask with 1.5e5 cells.
+
+When detaching cells, initially forgot to wash with PBS (so trypsin was neuteralized by FBS). Some cells detached and were lost when the cells were finally washed with PBS.
+
+# 240423
+(registered 040523)
+Split cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|2.8e5|3.4e5  |
+|3.2e5|3.4e5  |
+
+Average cell count (/2) was 1.6 c/ml. Added 1.8 ml to new T25 flask for 3e5 cells.
+
+This was passage 32
+
+## Well plate
+Changed medium
+
 # 200423
 
 Cells in T25 flasked look healthy but not really confluent (about 50%?)
