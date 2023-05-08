@@ -1,3 +1,32 @@
+# 080523
+
+Splitting cells. Cells looked more confluent than usual (6 days cultivation)
+
+## Old cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.7e5|4.6e5  |
+|3.1e5|3.5e5  |
+
+Average cell count (/2) was 1.86 c/ml. Added 1.6 ml to new T25 flask for 3e5 cells.
+Passage 12
+
+## New cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|4.4e5|3.6e5  |
+|3.4e5|(missing)  |
+
+Average cell count (/2) was 1.98 c/ml. Added 1.5 ml to new T25 flask for 3e5 cells.
+Passage 35
+
+
 # 020523
 
 (registered 040523)
