@@ -1,8 +1,24 @@
+# 120523
+
+Splitting cells. The new cells were confluent but old cells maybe just 50 % so. Decided to only split new cells.
+
+## New cells
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.8e5|4.1e5  |
+|4.8e5|missing  |
+
+Average cell count (/2) was 2.2e5 c/ml. Added 1.3 ml to new T25 flask for 3e5 cells.
+Passage 13
+
 # 080523
 
 Splitting cells. Cells looked more confluent than usual (6 days cultivation)
 
-## Old cells
+## New cells
 
 Cell count
 
@@ -14,7 +30,7 @@ Cell count
 Average cell count (/2) was 1.86 c/ml. Added 1.6 ml to new T25 flask for 3e5 cells.
 Passage 12
 
-## New cells
+## Old cells
 
 Cell count
 
