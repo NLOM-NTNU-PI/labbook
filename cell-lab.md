@@ -1,3 +1,17 @@
+# 160523
+
+Split new cells. Seemed confluent. Also looked at old cells seeded yesterday which looked ok.
+
+Cell count
+
+| A   | B     |
+|---  |---    |
+|3.8e5|4.1e5  |
+|5.2e5|4.6e5  |
+
+Average cell count (/2) was 2.2e5 c/ml
+Seeded 1.4 ml for 3e5 c in T25 flask. 
+
 # 150523
 
 Split old cells. Seemed quite confluent in the microscope but cell count rather low as shown in table below. This was 7 days since last incubation. Maybe the growth potential of the cells are decaying. 
