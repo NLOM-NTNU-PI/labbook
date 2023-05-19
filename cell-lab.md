@@ -1,3 +1,18 @@
+
+# 190523
+
+*New cells had become turbid*. Discarded. Don't know what happened.
+
+Split old cells. Didn't seem fully confluent, also quite low cell count.
+
+| A   | B     |
+|---  |---    |
+|2.1e5|1.5e5  |
+|2.6e5|1.8e5  |
+
+Average cell count (/2) was 1e5 c/ml
+Seeded 3 ml for 3e5 c in T25 flask. 
+
 # 160523
 
 Split new cells. Seemed confluent. Also looked at old cells seeded yesterday which looked ok.
