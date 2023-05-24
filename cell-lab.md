@@ -1,4 +1,20 @@
 
+# 240523
+
+Split old cells. Used new Trypsin provided by Sylvie. Seemed to work like normal. Cells looke confluent and normal.
+
+Cell count (~0.5 ml trypsin, 5 ml medium)
+
+| A   | B     |
+|---  |---    |
+|3.3e5|3.2e5  |
+|3.0e5|3.3e5  |
+
+Average cell count (/2) was 1.6e5 c/ml
+Seeded 1.88 ml for 3e5 c in T25 flask. 
+
+This was passage 39
+
 # 190523
 
 *New cells had become turbid*. Discarded. Don't know what happened.
