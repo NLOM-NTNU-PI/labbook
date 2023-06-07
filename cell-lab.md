@@ -1,4 +1,35 @@
 
+# 070623
+Split cells. Cells were confluent. After detachement some cells seemed to be bound together in islands
+
+Cell count (1 ml trypsin, 5 ml medium)
+
+| A   | B     |
+|---  |---    |
+|4.7e5|3.2e5  |
+|4.4e5|3.2e5  |
+
+Average cell count (/2) was 1.94e5 c/ml
+Seeded 1.6 ml for 3e5 c in T25 flask. 
+This was passage 40
+
+# 020623
+Planned to split cells but they were far from confluent. Only changed medium and returned to incubator.
+
+# 300523
+Split cells.
+
+Cell count 
+
+| A   | B     |
+|---  |---    |
+|3.2e5|4.4e5  |
+|3.7e5|3.4e5  |
+
+Average cell count (/2) was 1.84e5 c/ml
+Seeded 1.6 ml for 3e5 c in T25 flask. 
+This was passage 39
+
 # 240523
 
 Split old cells. Used new Trypsin provided by Sylvie. Seemed to work like normal. Cells looke confluent and normal.
