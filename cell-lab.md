@@ -1,4 +1,8 @@
 
+# 140623
+
+Checked cells today. Dead. Discarded. Probably incubated to long.
+
 # 070623
 Split cells. Cells were confluent. After detachement some cells seemed to be bound together in islands
 
