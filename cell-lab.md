@@ -1,3 +1,8 @@
+# 200623
+
+Changed medium on cells from that Diamante seeded yesterday. Used medium from 140423 with AA added.
+
+In the microscope the cells were quite sparse and seemed attached (spindle like).
 
 # 140623
 
